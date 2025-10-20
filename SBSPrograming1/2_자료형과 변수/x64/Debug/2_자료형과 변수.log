@@ -1,4 +1,8 @@
 ﻿  main.c
-C:\Users\신충호\Documents\GitHub\25Programing1st-\SBSPrograming1\2_자료형과 변수\main.c(41,24): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\신충호\Documents\GitHub\25Programing1st-\SBSPrograming1\2_자료형과 변수\main.c(53,29): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  2_자료형과 변수.vcxproj -> C:\Users\신충호\Documents\GitHub\25Programing1st-\SBSPrograming1\SBSPrograming\x64\Debug\2_자료형과 변수.exe
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\2_자료형과 변수\main.c(60,6): error C2374: 'level': 재정의. 여러 번 초기화했습니다.
+      C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\2_자료형과 변수\main.c(33,6):
+      'level' 선언을 참조하십시오.
+  
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\2_자료형과 변수\main.c(42,24): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\2_자료형과 변수\main.c(54,29): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\2_자료형과 변수\main.c(61,14): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
