@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_디버깅", "..\3_디버�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_전처리기와 링킹과정", "..\4_전처리기와 링킹과정\4_전처리기와 링킹과정.vcxproj", "{0982E659-542A-4826-96F4-2D529562F9D0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_자료형의 사용 방법", "5_자료형의 사용 방법\5_자료형의 사용 방법.vcxproj", "{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{0982E659-542A-4826-96F4-2D529562F9D0}.Release|x64.Build.0 = Release|x64
 		{0982E659-542A-4826-96F4-2D529562F9D0}.Release|x86.ActiveCfg = Release|Win32
 		{0982E659-542A-4826-96F4-2D529562F9D0}.Release|x86.Build.0 = Release|Win32
+		{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}.Debug|x64.ActiveCfg = Debug|x64
+		{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}.Debug|x64.Build.0 = Debug|x64
+		{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}.Debug|x86.Build.0 = Debug|Win32
+		{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}.Release|x64.ActiveCfg = Release|x64
+		{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}.Release|x64.Build.0 = Release|x64
+		{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}.Release|x86.ActiveCfg = Release|Win32
+		{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

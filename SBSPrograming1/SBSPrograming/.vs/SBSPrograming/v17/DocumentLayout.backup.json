@@ -3,16 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\SBSPrograming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0982E659-542A-4826-96F4-2D529562F9D0}|..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}|5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95\\5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95.vcxproj|C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\SBSPrograming\\5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95\\5_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EEB973E-AC7F-4E0A-ACD7-3B76A01B21EE}|5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95\\5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95.vcxproj|solutionrelative:5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95\\5_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0982E659-542A-4826-96F4-2D529562F9D0}|..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|C:\\USERS\\\uC2E0\uCDA9\uD638\\DESKTOP\\CONSOLEGAMEUTILTY\\GAME.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0982E659-542A-4826-96F4-2D529562F9D0}|..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0982E659-542A-4826-96F4-2D529562F9D0}|..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Gamelnfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0982E659-542A-4826-96F4-2D529562F9D0}|..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\STDINT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,58 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.h",
-              "DocumentMoniker": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.h",
-              "RelativeDocumentMoniker": "..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.h",
-              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.h",
-              "RelativeToolTip": "..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.h",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-20T08:29:57.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "game.h",
-              "DocumentMoniker": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\ConsoleGameUtilty\\game.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\ConsoleGameUtilty\\game.h",
-              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\ConsoleGameUtilty\\game.h",
-              "RelativeToolTip": "..\\..\\..\\ConsoleGameUtilty\\game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Title": "stdint.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\stdint.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\stdint.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\stdint.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\stdint.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-20T07:44:45.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Gamelnfo.h",
-              "DocumentMoniker": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Gamelnfo.h",
-              "RelativeDocumentMoniker": "..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Gamelnfo.h",
-              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Gamelnfo.h",
-              "RelativeToolTip": "..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Gamelnfo.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-20T07:37:56.277Z",
+              "WhenOpened": "2025-10-21T07:19:04.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.c",
-              "RelativeDocumentMoniker": "..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.c",
-              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.c*",
-              "RelativeToolTip": "..\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\main.c*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Title": "5_main.c",
+              "DocumentMoniker": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\SBSPrograming\\5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95\\5_main.c",
+              "RelativeDocumentMoniker": "5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95\\5_main.c",
+              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\SBSPrograming\\5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95\\5_main.c*",
+              "RelativeToolTip": "5_\uC790\uB8CC\uD615\uC758 \uC0AC\uC6A9 \uBC29\uBC95\\5_main.c*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-20T07:37:26.819Z",
+              "WhenOpened": "2025-10-21T07:03:11.129Z",
               "EditorCaption": ""
             }
           ]
