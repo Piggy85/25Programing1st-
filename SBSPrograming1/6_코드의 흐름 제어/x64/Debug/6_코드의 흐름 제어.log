@@ -1,2 +1,8 @@
 ﻿  main.c
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\6_코드의 흐름 제어\가위바위보.h(27,3): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\6_코드의 흐름 제어\가위바위보.h(28,20): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
   6_코드의 흐름 제어.vcxproj -> C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\SBSPrograming\x64\Debug\6_코드의 흐름 제어.exe

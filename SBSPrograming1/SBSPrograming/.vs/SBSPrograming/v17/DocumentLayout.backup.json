@@ -4,6 +4,9 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{6496F5CF-DFA4-4F47-B201-E898681ED0AD}|..\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4.vcxproj|C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6496F5CF-DFA4-4F47-B201-E898681ED0AD}|..\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4.vcxproj|C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\\uAC00\uC704\uBC14\uC704\uBCF4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,19 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uAC00\uC704\uBC14\uC704\uBCF4.h",
+              "DocumentMoniker": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\\uAC00\uC704\uBC14\uC704\uBCF4.h",
+              "RelativeDocumentMoniker": "..\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\\uAC00\uC704\uBC14\uC704\uBCF4.h",
+              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\\uAC00\uC704\uBC14\uC704\uBCF4.h",
+              "RelativeToolTip": "..\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\\uAC00\uC704\uBC14\uC704\uBCF4.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-23T17:46:54.453Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\main.c",
               "RelativeDocumentMoniker": "..\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\main.c",
-              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\main.c",
-              "RelativeToolTip": "..\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\main.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\main.c*",
+              "RelativeToolTip": "..\\6_\uCF54\uB4DC\uC758 \uD750\uB984 \uC81C\uC5B4\\main.c*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-22T08:27:07.121Z",
+              "WhenOpened": "2025-10-23T17:44:33.732Z",
               "EditorCaption": ""
             }
           ]
