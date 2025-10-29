@@ -1,0 +1,6 @@
+﻿  11_main.c
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a2_자료형과 배열\11_main.c(52,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a2_자료형과 배열\11_main.c(52,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a2_자료형과 배열\11_main.c(53,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a2_자료형과 배열\11_main.c(53,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+  a2_자료형과 배열.vcxproj -> C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\SBSPrograming\x64\Debug\a2_자료형과 배열.exe

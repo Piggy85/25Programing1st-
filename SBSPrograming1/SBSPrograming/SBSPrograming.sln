@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9_코드의 범위", "..\9_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a1_상수와 열거형 사용", "..\10_상수와 열거형 사용\10_상수와 열거형 사용.vcxproj", "{12FAFC69-B40E-4563-B3E8-E8CABA0AE723}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a2_자료형과 배열", "..\a2_자료형과 배열\a2_자료형과 배열.vcxproj", "{D5588C82-F50E-453E-A938-82064C4AE052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{12FAFC69-B40E-4563-B3E8-E8CABA0AE723}.Release|x64.Build.0 = Release|x64
 		{12FAFC69-B40E-4563-B3E8-E8CABA0AE723}.Release|x86.ActiveCfg = Release|Win32
 		{12FAFC69-B40E-4563-B3E8-E8CABA0AE723}.Release|x86.Build.0 = Release|Win32
+		{D5588C82-F50E-453E-A938-82064C4AE052}.Debug|x64.ActiveCfg = Debug|x64
+		{D5588C82-F50E-453E-A938-82064C4AE052}.Debug|x64.Build.0 = Debug|x64
+		{D5588C82-F50E-453E-A938-82064C4AE052}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5588C82-F50E-453E-A938-82064C4AE052}.Debug|x86.Build.0 = Debug|Win32
+		{D5588C82-F50E-453E-A938-82064C4AE052}.Release|x64.ActiveCfg = Release|x64
+		{D5588C82-F50E-453E-A938-82064C4AE052}.Release|x64.Build.0 = Release|x64
+		{D5588C82-F50E-453E-A938-82064C4AE052}.Release|x86.ActiveCfg = Release|Win32
+		{D5588C82-F50E-453E-A938-82064C4AE052}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
