@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\SBSPrograming\\",
+  "WorkspaceRootPath": "C:\\25Programing1st-\\SBSPrograming1\\SBSPrograming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98694CFC-385D-465C-AD2B-BE825C4E954E}|..\\a33_\uD3EC\uC778\uD130\uC5D0 \uB300\uD55C \uC774\uD574\\a33_\uD3EC\uC778\uD130\uC5D0 \uB300\uD55C \uC774\uD574.vcxproj|C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\a33_\uD3EC\uC778\uD130\uC5D0 \uB300\uD55C \uC774\uD574\\13_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6D31768B-015B-4C9F-91BA-4AEBFE90929F}|..\\a4_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD130\\a4_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD130.vcxproj|C:\\25Programing1st-\\SBSPrograming1\\a4_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD130\\14_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "13_main.c",
-              "DocumentMoniker": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\a33_\uD3EC\uC778\uD130\uC5D0 \uB300\uD55C \uC774\uD574\\13_main.c",
-              "RelativeDocumentMoniker": "..\\a33_\uD3EC\uC778\uD130\uC5D0 \uB300\uD55C \uC774\uD574\\13_main.c",
-              "ToolTip": "C:\\Users\\\uC2E0\uCDA9\uD638\\Desktop\\25Programing1st-\\SBSPrograming1\\a33_\uD3EC\uC778\uD130\uC5D0 \uB300\uD55C \uC774\uD574\\13_main.c",
-              "RelativeToolTip": "..\\a33_\uD3EC\uC778\uD130\uC5D0 \uB300\uD55C \uC774\uD574\\13_main.c",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAwFsAAAABAAAAAAAAAA==",
+              "Title": "14_main.c",
+              "DocumentMoniker": "C:\\25Programing1st-\\SBSPrograming1\\a4_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD130\\14_main.c",
+              "RelativeDocumentMoniker": "..\\a4_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD130\\14_main.c",
+              "ToolTip": "C:\\25Programing1st-\\SBSPrograming1\\a4_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD130\\14_main.c",
+              "RelativeToolTip": "..\\a4_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD130\\14_main.c",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-02T16:18:15.006Z",
+              "WhenOpened": "2025-11-03T07:08:10.78Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,8 @@
+﻿  14_main.c
+C:\25Programing1st-\SBSPrograming1\a4_상수 포인터와 상수 지시 포인터\14_main.c(53,23): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'const char *[3]'과(와) 다릅니다.
+C:\25Programing1st-\SBSPrograming1\a4_상수 포인터와 상수 지시 포인터\14_main.c(53,23): warning C4024: 'Inventory': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\25Programing1st-\SBSPrograming1\a4_상수 포인터와 상수 지시 포인터\14_main.c(60,24): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'const char *[3]'과(와) 다릅니다.
+C:\25Programing1st-\SBSPrograming1\a4_상수 포인터와 상수 지시 포인터\14_main.c(60,24): warning C4024: 'Inventory': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\25Programing1st-\SBSPrograming1\a4_상수 포인터와 상수 지시 포인터\14_main.c(23,10): warning C4090: '초기화 중': 다른 'const' 한정자
+C:\25Programing1st-\SBSPrograming1\a4_상수 포인터와 상수 지시 포인터\14_main.c(93,51): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  a4_상수 포인터와 상수 지시 포인터.vcxproj -> C:\25Programing1st-\SBSPrograming1\SBSPrograming\x64\Debug\a4_상수 포인터와 상수 지시 포인터.exe
