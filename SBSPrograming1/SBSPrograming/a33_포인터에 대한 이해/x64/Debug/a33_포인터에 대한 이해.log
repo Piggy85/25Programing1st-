@@ -1,0 +1,4 @@
+﻿  13main.c
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\SBSPrograming\a33_포인터에 대한 이해\13main.c(24,2): warning C4013: 'pritnf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+13main.obj : error LNK2019: pritnfmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\SBSPrograming\x64\Debug\a33_포인터에 대한 이해.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

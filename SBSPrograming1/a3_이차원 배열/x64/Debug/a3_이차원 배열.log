@@ -1,0 +1,8 @@
+﻿  13_main.c
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a3_이차원 배열\13_main.c(27,19): warning C4013: 'tolower'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a3_이차원 배열\13_main.c(53,6): warning C4101: 'mapY' :참조되지 않은 지역 변수입니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a3_이차원 배열\13_main.c(52,6): warning C4101: 'mapX' :참조되지 않은 지역 변수입니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a3_이차원 배열\13_main.c(116,7): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a3_이차원 배열\13_main.c(158,8): warning C4477: 'scanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a3_이차원 배열\13_main.c(157,14): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+  a3_이차원 배열.vcxproj -> C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\SBSPrograming\x64\Debug\a3_이차원 배열.exe

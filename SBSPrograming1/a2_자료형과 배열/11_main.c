@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include <string.h>
 
 
 //중괄호는 영역을 표현하는 녀석
@@ -69,5 +70,13 @@ int main()
 	//문자열의 비교 함수로 만들어본다. 실행할 수 있게 본다
 
 	//name 가위 들어있는 내용은 같다
+
+	//두 개의 문자열에 값을 비교하는 방법 -> strcmp
+	//mircrosoft strcmp
+
+	if (strcmp(name, "가위") == 0)
+	{
+
+	}
 }
 
