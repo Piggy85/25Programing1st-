@@ -1,0 +1,7 @@
+﻿  17main.c
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a7_구조체에 대한 이해\17main.c(13,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 '<unnamed-enum-기사>' 왼쪽은 무시됩니다.
+C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a7_구조체에 대한 이해\17main.c(81,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\a7_구조체에 대한 이해\17main.c(81,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+  a7_구조체에 대한 이해.vcxproj -> C:\Users\신충호\Desktop\25Programing1st-\SBSPrograming1\SBSPrograming\x64\Debug\a7_구조체에 대한 이해.exe
